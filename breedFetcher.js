@@ -26,4 +26,4 @@ const x = (data) => {
   console.log(data);
 };
 */
-fetchBreedDescription(breed);
+fetchBreedDescription(breed, x);
